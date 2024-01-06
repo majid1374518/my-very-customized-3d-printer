@@ -1,7 +1,7 @@
 + make right extruder.
 + get back to previus design for X-axis Blocks.
 + make a part for mk8s.
-- Complete the connection part.
++ Complete the connection part.
 - add fans to mk8's heatsink.
 - add ballscrew packages.
 - repair Y-axis parts for ballscrews.
