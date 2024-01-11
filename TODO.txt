@@ -3,7 +3,8 @@
 + make a part for mk8s.
 + Complete the connection part.
 + add fans to mk8's heatsink.
-- create ballscrew holes to connect to the X-axis parts.
-- add coupler and mottor to X-axis ballscrew.
++ create ballscrew holes to connect to the X-axis parts.
++ add coupler and mottor to X-axis ballscrew.
+- add a feature to the X-axis part left to carry the nema23 motor and keep in mind to make screw holes specific and supported base to decrease motor vibrations
 - add ballscrew to Y-axis.
 - repair Y-axis parts for ballscrews.
