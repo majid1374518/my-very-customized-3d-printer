@@ -5,6 +5,11 @@
 + add fans to mk8's heatsink.
 + create ballscrew holes to connect to the X-axis parts.
 + add coupler and mottor to X-axis ballscrew.
-- add a feature to the X-axis part left to carry the nema23 motor and keep in mind to make screw holes specific and supported base to decrease motor vibrations
-- add ballscrew to Y-axis.
-- repair Y-axis parts for ballscrews.
++ add a feature to the X-axis part left to carry the nema23 motor and keep in mind to make screw holes specific and supported base to decrease motor vibrations
++ add ballscrew to Y-axis.
++ repair Y-axis parts for ballscrews.
++ Yaxis motor holder for left motor done.
+- Add a little hook to Y axis motor holder left for future to add boksel wire for decrease vibration.
+- Add motor holder for Y axis motor right.
+- Add BF support housing of Yaxis left side.
+- Add BF support housing of Yaxis right side.
