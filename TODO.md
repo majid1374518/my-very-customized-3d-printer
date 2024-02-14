@@ -11,5 +11,5 @@
 + Yaxis motor holder for left motor done.
 + Add a little hook to Y axis motor holder left for future to add boksel wire for decrease vibration.
 + Add motor holder for Y axis motor right.
-- Add BF support housing of Yaxis left side.
-- Add BF support housing of Yaxis right side.
++ Add BF support housing of Yaxis left side.
++ Add BF support housing of Yaxis right side.
